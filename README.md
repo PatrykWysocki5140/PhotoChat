@@ -1,4 +1,4 @@
-Privacy Policy for "Photo Chat" Android app
+###Privacy Policy for "Photo Chat" Android app
 General information:
 This privacy policy explains what personal data is collected, processed, and used by our "Photo Chat" Android app, which allows for processing of photos to text and using OpenAI to find answers.
 
