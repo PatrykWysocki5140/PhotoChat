@@ -1,6 +1,6 @@
 **Photo Chat**
 
-![](Aspose.Words.8e302903-d535-4d18-a158-3ea8fff0d97f.001.png)
+![](screen.png)
 
 Application integrated with OpenAI to search for answers to questions
 
